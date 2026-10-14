@@ -104,6 +104,12 @@ p {
 	font-size: 90%;
 	font-weight: normal;
 }
+hr {
+	height: 1px;
+	background-color: #0b0601;
+	border-top: 1px solid #1d0b04;
+	border-bottom: 1px solid #432a20;
+}
 /* ========== MISC. FLOATS ========== */
 .float-R {
 	float: right;
